@@ -39,3 +39,7 @@ out/
 
 # Any PDF placed for RAG ingestion — not meant to be version controlled
 *.pdf
+
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
